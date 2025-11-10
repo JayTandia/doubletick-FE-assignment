@@ -144,5 +144,3 @@ doubletickk/
 - Fake data by [Faker.js](https://fakerjs.dev/)
 
 ---
-
-**Note**: Make sure to add a screenshot image named `screenshot.png` in the root directory to display the UI preview in the README.
